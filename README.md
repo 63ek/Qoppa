@@ -15,7 +15,7 @@ is sent to a webmaster of your site, i.e. to you.
 
 ## Instructions
 
-Create banner or textual informer with `id="qoppa"` and text like this
+Create informer with text like this
 
     Select spelling error with your mouse and press Shift+Q
 
