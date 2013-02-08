@@ -33,4 +33,4 @@ MySQL table structure:
 jQuery & Qoppa
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-    <script src="koppa.js" type="text/javascript"></script>
+    <script src="qoppa.js" type="text/javascript"></script>
